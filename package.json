@@ -1,0 +1,16 @@
+{
+  "name": "snake-game",
+  "version": "1.0.0",
+  "description": "網頁貪食蛇遊戲",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx http-server . -p 3000",
+    "test": "echo \"No tests specified\" && exit 0"
+  },
+  "keywords": ["snake", "game", "javascript"],
+  "author": "Y 爺的數位辦公室",
+  "license": "MIT",
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}
