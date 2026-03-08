@@ -43,8 +43,11 @@ npm start
 然後在瀏覽器開啟 `http://localhost:3000`
 
 ### 線上遊玩
-直接訪問 GitHub Pages 預覽：
-https://ey57aifree.github.io/testing/
+🌐 **GitHub Pages**: https://ey57aifree.github.io/testing/
+- 即時預覽最新版本
+- 支援手機、平板、電腦各裝置
+- 自動更新（每次 push 到 main 分支）
+- 無需安裝，直接在瀏覽器遊玩
 
 ## 📁 專案結構
 
